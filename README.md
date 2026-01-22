@@ -7,17 +7,6 @@
 [![CrewAI](https://img.shields.io/badge/CrewAI-0.130.0-orange.svg)](https://www.crewai.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Complete Bug Analysis](#complete-bug-analysis)
-- [Architecture & Improvements](#architecture--improvements)
-- [Setup Instructions](#setup-instructions)
-- [API Documentation](#api-documentation)
-- [Testing Guide](#testing-guide)
-- [Future Enhancements](#future-enhancements)
-
----
-
 ## 🎯 Project Overview
 
 A production-ready financial document analysis system powered by AI agents using CrewAI framework. The system processes corporate reports, financial statements (10-K, 10-Q), and earnings releases to provide comprehensive investment analysis, risk assessment, and professional recommendations.
@@ -712,7 +701,7 @@ Each task includes:
 
 #### Step 1: Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/KawshalRam/financial-document-analyzer-debug>
 cd financial-document-analyzer
 ```
 
